@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/source/ffmpeg-cpp/.vs/ffmpeg-cpp/v15
+/source/ffmpeg-cpp/.vs/
 /source/ffmpeg-cpp/ffmpeg-cpp/obj
 /source/ffmpeg-cpp/demo/obj
 /source/ffmpeg-cpp/x64/Debug
